@@ -9,7 +9,7 @@ const HeroPage = () => {
       className=" bg-zinc-950 border-b-[#48c9af60] border-b w-[100%] h-[100vh] relative z-50 overflow-hidden px-[5vw] "
     >
       <div className="flex select-none xl:flex-row md:gap-10 lg:gap-32 xl:gap-0 mx-5 xl:mx-0 md:mx-10 flex-col mb-10">
-        <div className="2xl:py-[32vh] lg:pt-[20vh] xl:w-[70%] md:pt-36 pt-[30vh] z-50">
+        <div className="2xl:py-[32vh] lg:pt-[20vh] xl:w-[70%] md:pt-36 pt-[20vh] z-50">
           <h2 className="ml-1 text-md lg:text-2xl md:text-xl flex 2xl:mb-7 md:mb-3 mb-[2vh] 2xl:text-2xl">
             I'm <span className=" text-[#48C9B0] ml-3">Yash Kumar Singh </span>{" "}
             .
