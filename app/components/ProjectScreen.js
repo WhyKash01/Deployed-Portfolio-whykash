@@ -27,7 +27,7 @@ const ProjectScreen = (props) => {
         {
             src1: '/Portfolio11.png',
             src2: '/Portfolio12.png',
-            src3: '/portfolio15.png',
+            src3: '/Portfolio15.png',
             src4: '/Portfolio14.png',
             text: "Portfolio",
             description: "Portfolio Website made with Next.js",
